@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spidey0o0Zheng
+- 👋 Hi, I’m @BozhengLong
 - 👀 I’m interested in cognitive neuroscience.
 - 🌱 I’m currently learning cognitive neuroscience.
 - 💞️ I’m looking to collaborate on ...
