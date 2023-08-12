@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @BozhengLong
-- 👀 I’m interested in cognitive neuroscience.
-- 🌱 I’m currently learning cognitive neuroscience.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me im.bzlong@gmail.com
 
+<!---
 #### 📟  Language and Profile
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bozhenglong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozhenglong&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+--->
 
 <!---
 Spidey0o0Zheng/Spidey0o0Zheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
