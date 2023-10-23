@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BozhengLong
 - 👀 I’m interested in Psychology, Philosophy, Cognitive Science and Computer Science.
 - 🌱 I’m currently learning Psychology and Cognitive Neuroscience.
-- 📫 How to reach me im.bzlong@gmail.com
 
 <!---
 #### 📟  Language and Profile
