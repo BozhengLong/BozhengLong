@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BozhengLong
-- 👀 I’m interested in Psychology, Cognitive Science and Computer Science.
+- 👀 I’m interested in Psychology and Neuroscience.
 - 🌱 I’m currently learning Psychology and Cognitive Neuroscience.
 
 <!---
