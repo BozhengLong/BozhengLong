@@ -1,6 +1,8 @@
+<!---
 - 👋 Hi, I’m @BozhengLong
 - 👀 I’m interested in Psychology and Neuroscience.
 - 🌱 I’m currently learning Psychology and Cognitive Neuroscience.
+--->
 
 <!---
 #### 📟  Language and Profile
@@ -8,7 +10,20 @@
 | ------------- | ------------- |
 --->
 
+
+[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://long.bozheng.xyz/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bozheng-long/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bzlongbz)
 <!---
-Spidey0o0Zheng/Spidey0o0Zheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+[![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.de/citations?user=TxEy3cwAAAAJ&hl=en)
 --->
+
+I'm a graduate student at the University of Glasgow, majoring in psychological science.
+I'm interested in computational and cognitive neuroscience.
+
+
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=bozhenglong&count_private=true&show_icons=false&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozhenglong&theme=default&show_icons=true" />
+
