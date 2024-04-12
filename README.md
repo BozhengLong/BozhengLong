@@ -11,7 +11,7 @@
 --->
 
 
-[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://long.bozheng.xyz/)
+[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://bozhenglong.github.io/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bozheng-long/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bzlongbz)
 <!---
