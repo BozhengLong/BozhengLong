@@ -18,8 +18,7 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.de/citations?user=TxEy3cwAAAAJ&hl=en)
 --->
 
-I'm a graduate student at the University of Glasgow, majoring in psychological science.
-I'm interested in computational and cognitive neuroscience.
+Data science / computational and cognitive neuroscience.
 
 
 ---
