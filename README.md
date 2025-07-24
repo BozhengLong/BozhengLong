@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.de/citations?user=TxEy3cwAAAAJ&hl=en)
 --->
 
-### `Data science & Computational cognitive neuroscience`
+### `AI Product Manager`
 
 
 ---
